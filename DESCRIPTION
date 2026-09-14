@@ -8,7 +8,7 @@ Description: Generates randomized, good-natured compliments by combining
     hand-picked adjectives, nouns, and sentence templates. Sprinkle a little
     joy into your console session, your package messages, or your day.
 License: MIT + file LICENSE
-URL: https://github.com/ateucher/compliment
+URL: https://github.com/ateucher/compliment, http://andyteucher.ca/compliment/
 BugReports: https://github.com/ateucher/compliment/issues
 Config/roxygen2/version: 8.0.0
 Config/testthat/edition: 3
