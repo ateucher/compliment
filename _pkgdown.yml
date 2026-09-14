@@ -1,0 +1,9 @@
+url: https://github.com/andyteucher/compliment
+
+template:
+  bootstrap: 5
+
+reference:
+- title: Compliments
+  contents:
+  - compliment

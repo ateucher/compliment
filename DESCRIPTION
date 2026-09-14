@@ -1,0 +1,18 @@
+Package: compliment
+Title: Generate Randomized Compliments
+Version: 0.0.0.9000
+Authors@R: 
+    person("Andy", "Teucher", , "andy.teucher@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7840-692X"))
+Description: Generates randomized, good-natured compliments by combining
+    hand-picked adjectives, nouns, and sentence templates. Sprinkle a little
+    joy into your console session, your package messages, or your day.
+License: MIT + file LICENSE
+URL: https://github.com/andyteucher/compliment
+BugReports: https://github.com/andyteucher/compliment/issues
+Config/roxygen2/version: 8.0.0
+Config/testthat/edition: 3
+Encoding: UTF-8
+Suggests:
+    testthat (>= 3.0.0)
+Roxygen: list(markdown = TRUE)
